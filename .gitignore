@@ -1,0 +1,21 @@
+# Build artifacts
+*.so
+*.dll
+*.dylib
+*.a
+*.o
+
+# Temporary files
+*.tmp
+*.log
+
+# Test databases
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
